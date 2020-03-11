@@ -10,9 +10,7 @@ import javax.persistence.EntityManager;
 
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-@Commit
+//@Commit
 @Transactional
 @SpringBootTest
 class MemberTest {
